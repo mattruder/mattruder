@@ -23,7 +23,6 @@
 
 Languages: 
   - Fluent: 🇺🇸 English <br/>
-  - Learning: 🇪🇸 Spanish
 
 <hr/>
 
