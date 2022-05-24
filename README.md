@@ -22,7 +22,6 @@
 
 
 Languages: 
-  - Fluent: 🇺🇸 English <br/>
 
 <hr/>
 
