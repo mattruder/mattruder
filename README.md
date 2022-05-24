@@ -21,8 +21,6 @@
 🇺🇸   Colorado since 2019. 
 
 
-Languages: 
-
 <hr/>
 
 <p align="center">
