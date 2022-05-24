@@ -42,7 +42,7 @@
 />
 <br />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=nicorithner&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mattruder&&theme=react&&hide_border=true"
 />
 </div>
 
