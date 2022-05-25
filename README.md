@@ -14,7 +14,7 @@
 
 👨🏻‍💻   In Search Of A Junior Dev Position!
 
-📚   Trained at [Turing School of Software and Design](https://turing.io/). Front-End Program - cohort 2201.
+📚   Trained at [Turing School of Software and Design](https://turing.edu/). Front-End Program - cohort 2201.
 
 🎸   Nationally Touring Bassist and Guitarist. 
 
