@@ -18,7 +18,7 @@
 
 🎸   Nationally Touring Bassist and Guitarist. 
 
-🇺🇸   Colorado since 2019. 
+🇺🇸   Tulsa, Oklahoma since January 2023 and loving it!
 
 
 <hr/>
