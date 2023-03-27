@@ -38,12 +38,10 @@
 <hr/>
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mattruder&show_icons=true&theme=react&&hide_border=true"
+  src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mattruder&theme=dark)](https://git.io/streak-stats)"
 />
 <br />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mattruder&&theme=react&&hide_border=true"
-/>
+
 </div>
 
 <hr/>
